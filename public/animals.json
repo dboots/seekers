@@ -1,0 +1,50 @@
+[
+  {
+    "animal": "badger",
+    "image": "/images/animals/animals_01.jpg"
+  },
+  {
+    "animal": "bear",
+    "image": "/images/animals/animals_02.jpg"
+  },
+  {
+    "animal": "porcupine",
+    "image": "/images/animals/animals_03.jpg"
+  },
+  {
+    "animal": "bunny",
+    "image": "/images/animals/animals_04.jpg"
+  },
+  {
+    "animal": "chipmunk",
+    "image": "/images/animals/animals_05.jpg"
+  },
+  {
+    "animal": "duck",
+    "image": "/images/animals/animals_06.jpg"
+  },
+  {
+    "animal": "fox",
+    "image": "/images/animals/animals_07.jpg"
+  },
+  {
+    "animal": "frog",
+    "image": "/images/animals/animals_08.jpg"
+  },
+  {
+    "animal": "raccoon",
+    "image": "/images/animals/animals_09.jpg"
+  },
+  {
+    "animal": "snake",
+    "image": "/images/animals/animals_10.jpg"
+  },
+  {
+    "animal": "turtle",
+    "image": "/images/animals/animals_11.jpg"
+  },
+  {
+    "animal": "wolf",
+    "image": "/images/animals/animals_12.jpg"
+  }
+]

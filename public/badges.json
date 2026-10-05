@@ -1,0 +1,39 @@
+{
+  "badges": [
+    {
+      "id": 1,
+      "badge": "Inquisitive Spirit",
+      "image": "badge_01.jpg"
+    },
+    {
+      "id": 2,
+      "badge": "Logical Thinker",
+      "image": "badge_02.jpg"
+    },
+    {
+      "id": 3,
+      "badge": "Great Communicator",
+      "image": "badge_03.jpg"
+    },
+    {
+      "id": 4,
+      "badge": "Fantastic Leader",
+      "image": "badge_04.jpg"
+    },
+    {
+      "id": 5,
+      "badge": "Creative Organizer",
+      "image": "badge_05.jpg"
+    },
+    {
+      "id": 6,
+      "badge": "Perfect Planner",
+      "image": "badge_06.jpg"
+    },
+    {
+      "id": 7,
+      "badge": "Problem Solver",
+      "image": "badge_06.jpg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Halto",
+    "front": "characters_01.jpg",
+    "back": "characters_back_01.jpg",
+    "meeple": "meeples/halto_01.png"
+  },
+  {
+    "name": "Chep",
+    "front": "characters_02.jpg",
+    "back": "characters_back_02.jpg",
+    "meeple": "meeples/chep_01.png"
+  },
+  {
+    "name": "Bixxy",
+    "front": "characters_03.jpg",
+    "back": "characters_back_03.jpg",
+    "meeple": "meeples/bixxy_01.png"
+  }
+]

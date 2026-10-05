@@ -1,0 +1,16 @@
+{
+  "crystals": [2, 4, 5],
+  "mushroom": ["E5", "D5", "D6"],
+  "animals": [
+    {
+      "badger": [{ "B1": false, "D6": false, "E2": true }],
+      "bear": [{ "B3": false, "D2": true, "E6": false }],
+      "porcupine": [{ "B4": false, "C6": false, "E5": true }]
+    },
+    {
+      "badger": [{ "B1": false, "D6": false, "E2": true }],
+      "bear": [{ "B3": false, "D2": true, "E6": false }],
+      "porcupine": [{ "B4": false, "C6": true, "E5": true }]
+    }
+  ]
+}
